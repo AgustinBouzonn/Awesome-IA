@@ -1,6 +1,6 @@
 # Awesome IA Argentina 🇦🇷
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Made in Argentina](https://img.shields.io/badge/made%20in-argentina-blue.svg)](https://github.com/arg-ai)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Made in Argentina](https://img.shields.io/badge/made%20in-argentina-blue.svg)](https://github.com/arg-ai) [![CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=flat-square)](LICENSE) [![Stars](https://img.shields.io/github/stars/AgustinBouzonn/Awesome-IA?style=flat-square)](https://github.com/AgustinBouzonn/Awesome-IA)
 
 > Una lista curada de recursos, carreras, comunidades y herramientas de Inteligencia Artificial, Ciencia de Datos y Machine Learning, con foco en **Argentina** y la comunidad hispanohablante.
 
