@@ -1,0 +1,9 @@
+# Sitios que bloquean a los robots de GitHub Actions (responden 403
+# aunque el enlace funciona en el navegador).
+^https://www\.deeplearning\.ai/
+^https://www\.oreilly\.com/
+^https://www\.tableau\.com/
+^https://scholar\.google\.com/
+
+# GitHub responde 404 a esta página si no hay sesión iniciada.
+^https://github\.com/[^/]+/[^/]+/stargazers
