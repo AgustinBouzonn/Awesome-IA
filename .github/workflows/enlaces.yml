@@ -1,0 +1,72 @@
+name: Revisar enlaces
+
+on:
+  schedule:
+    - cron: "23 7 * * 1" # lunes 07:23 UTC
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "**.md"
+      - ".lycheeignore"
+      - ".github/workflows/enlaces.yml"
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: enlaces-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  TITULO_ISSUE: "Enlaces rotos detectados"
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Restaurar cache de lychee
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: lychee-${{ github.sha }}
+          restore-keys: lychee-
+
+      - name: Revisar enlaces
+        id: lychee
+        uses: lycheeverse/lychee-action@v2.0.2
+        with:
+          args: >-
+            --cache
+            --max-cache-age 1d
+            --max-retries 3
+            --retry-wait-time 5
+            --timeout 30
+            --accept "100..=103,200..=299,429"
+            --no-progress
+            "./**/*.md"
+          # En PRs y corridas manuales el check falla si hay enlaces rotos.
+          # En la corrida semanal no falla: abre o actualiza un issue.
+          fail: ${{ github.event_name != 'schedule' }}
+
+      - name: Buscar issue abierto
+        id: issue
+        if: github.event_name == 'schedule' && steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          numero=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+            --search "\"$TITULO_ISSUE\" in:title" --json number,title \
+            --jq "[.[] | select(.title == \"$TITULO_ISSUE\")][0].number // empty")
+          echo "numero=$numero" >> "$GITHUB_OUTPUT"
+
+      - name: Abrir o actualizar issue
+        if: github.event_name == 'schedule' && steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: ${{ env.TITULO_ISSUE }}
+          content-filepath: ./lychee/out.md
+          issue-number: ${{ steps.issue.outputs.numero }}
+          labels: enlaces-rotos
