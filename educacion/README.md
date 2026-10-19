@@ -1,4 +1,6 @@
-# Educación en Inteligencia Artificial y Ciencia de Datos
+# 📚 Educación en Inteligencia Artificial y Ciencia de Datos
+
+<sub>[← Volver al índice](../README.md)</sub>
 
 Recopilación de carreras de grado y posgrado, cursos, bootcamps y material de lectura para formarse en IA, con especial foco en la oferta académica de Argentina.
 
@@ -8,17 +10,17 @@ Recopilación de carreras de grado y posgrado, cursos, bootcamps y material de l
 | Institución | Programa | Tipo | Link |
 | --- | --- | --- | --- |
 | **UBA - Fac. Ingeniería** | Maestría en Explotación de Datos y Descubrimiento del Conocimiento | Posgrado | [Web](https://datamining.dc.uba.ar/datamining/) |
-| **UBA - Fac. Exactas** | Licenciatura en Ciencias de Datos | Grado | [Web](https://lcd.exactas.uba.ar/) |
-| **ITBA** | Maestría en Ciencia de Datos | Posgrado | [Web](https://www.itba.edu.ar/maestria-en-ciencia-de-datos/) |
+| **UBA - Fac. Exactas** | Licenciatura en Ciencia de Datos | Grado | [Web](https://lcd.exactas.uba.ar/) |
+| **ITBA** | Especialización y Maestría en Ciencia de Datos | Posgrado | [Web](https://www.itba.edu.ar/posgrado/especializacion-en-ciencia-de-datos/) |
 | **UTN BA** | Especialización en Ciencia de Datos | Posgrado | [Web](https://sceu.frba.utn.edu.ar/e-learning/detalle/carrera/2306/especializacion-en-ciencia-de-datos) |
-| **Universidad Austral** | Maestría en Data Mining | Posgrado | [Web](https://www.austral.edu.ar/ingenieria/posgrados/maestria-en-explotacion-de-datos-y-gestion-del-conocimiento/) |
+| **Universidad Austral** | Posgrados en Ciencia de Datos | Posgrado | [Web](https://www.austral.edu.ar/ingenieria/ingenieria-posgrados/encontra-tu-programa/ciencia-de-datos/) |
 | **Universidad de San Andrés** | Maestría en Ciencia de Datos | Posgrado | [Web](https://udesa.edu.ar/maestria-en-ciencia-de-datos) |
-| **Di Tella** | Master en Management + Analytics | Posgrado | [Web](https://www.utdt.edu/listado_contenidos.php?id_item_menu=22858) |
+| **Di Tella** | Master in Management, Analytics and Artificial Intelligence | Posgrado | [Web](https://www.utdt.edu/listado_contenidos.php?id_item_menu=25098) |
 
 ### Córdoba
 | Institución | Programa | Tipo | Link |
 | --- | --- | --- | --- |
-| **FAMAF - UNC** | Maestría en Ciencia de Datos | Posgrado | [Web](https://www.famaf.unc.edu.ar/postgrado/maestr%C3%ADas/maestr%C3%ADa-en-ciencia-de-datos/) |
+| **FAMAF - UNC** | Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones | Diplomatura | [Web](https://diplodatos.famaf.unc.edu.ar/) |
 
 ---
 
@@ -26,11 +28,10 @@ Recopilación de carreras de grado y posgrado, cursos, bootcamps y material de l
 
 Instituciones que ofrecen cursos cortos, diplomaturas o bootcamps intensivos.
 
-*   **Humai:** [Cursos de Inteligencia Artificial y Deep Learning](https://humai.com.ar/) - *Organización argentina con fuerte foco técnico y comunidad.*
-*   **Digital House:** [Data Science](https://www.digitalhouse.com/ar/cursos/data-science) \| [Inteligencia Artificial](https://www.digitalhouse.com/ar/cursos/inteligencia-artificial)
-*   **Coderhouse:** [Data Science](https://www.coderhouse.com/online/data-science)
+*   **Humai:** [Cursos de Inteligencia Artificial y Deep Learning](https://humai.lat/) - *Organización argentina con fuerte foco técnico y comunidad.*
+*   **Digital House:** [Cursos de datos e IA](https://www.digitalhouse.com/ar) - *Consultá la oferta vigente en su sitio.*
+*   **Coderhouse:** [Data Science I: Fundamentos para la Ciencia de Datos](https://www.coderhouse.com/ar/cursos/data-science-fundamentos-para-la-ciencia-de-datos)
 *   **Henry:** [Data Science Bootcamp](https://www.soyhenry.com/carrera-data-science)
-*   **EANT:** [Escuela de Ciencias de Datos](https://eant.tech/)
 *   **Alkemy:** [Aceleración en Data Analytics](https://www.alkemy.org/)
 
 ---
@@ -59,7 +60,7 @@ Recursos gratuitos o de bajo costo reconocidos mundialmente.
 
 ### Deep Learning
 *   **Deep Learning** (Ian Goodfellow et al.) - [Lectura Online](http://www.deeplearningbook.org/) - La referencia teórica académica.
-*   **Deep Learning for Coders with fastai and PyTorch** (Jeremy Howard & Sylvain Gugger) - [O'Reilly](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
+*   **Deep Learning for Coders with fastai and PyTorch** (Jeremy Howard & Sylvain Gugger) - [Amazon](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
 
 ### Otros
 *   **Pattern Recognition and Machine Learning** (Christopher Bishop) - [Descarga Gratuita (Microsoft)](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)

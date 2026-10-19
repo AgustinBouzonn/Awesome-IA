@@ -1,4 +1,6 @@
-# Investigación y Datos
+# 🔬 Investigación y Datos
+
+<sub>[← Volver al índice](../README.md)</sub>
 
 Recursos para investigadores, acceso a papers, datasets abiertos y referencias académicas.
 
@@ -21,7 +23,7 @@ Recopilaciones de datos masivos para entrenamiento de modelos.
 *   **Hugging Face Datasets:** [Hugging Face Hub](https://huggingface.co/datasets) - La colección más grande y moderna de datasets para NLP, Vision y Audio. Es el estándar actual.
 *   **Kaggle Datasets:** [Kaggle](https://www.kaggle.com/datasets) - Datasets variados, competiciones y notebooks de ejemplo.
 *   **Google Dataset Search:** [Google](https://datasetsearch.research.google.com/) - "Google Scholar" pero para datasets.
-*   **Papers with Code:** [Datasets](https://paperswithcode.com/datasets) - Datasets organizados por tarea y vinculados a benchmarks (SOTA).
+*   **Hugging Face Papers:** [Trending Papers](https://huggingface.co/papers/trending) - Papers recientes con su código, modelos y datasets. Reemplaza a Papers with Code, que cerró en 2025.
 *   **Common Crawl:** [Web](https://commoncrawl.org/) - Archivo de la web, base para entrenar la mayoría de los LLMs.
 
 ---
@@ -44,4 +46,4 @@ Selección de papers que marcaron un antes y un después en la era del Deep Lear
 ### Motores de Búsqueda Académica
 *   [Google Scholar](https://scholar.google.com/)
 *   [Semantic Scholar](https://www.semanticscholar.org/) - Búsqueda semántica de papers con grafos de citas.
-*   [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) - Herramienta (creada por A. Karpathy) para filtrar y encontrar papers relevantes en Arxiv.
+*   [Arxiv Sanity Lite](https://arxiv-sanity-lite.com/) - Herramienta (creada por A. Karpathy) para filtrar y encontrar papers relevantes en Arxiv.
