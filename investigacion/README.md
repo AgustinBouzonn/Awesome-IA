@@ -11,7 +11,7 @@ Recursos para investigadores, acceso a papers, datasets abiertos y referencias a
 | **Datos Argentina** | Nación | Portal nacional de datos abiertos. | [Web](https://datos.gob.ar/) |
 | **BA Data** | GCBA | Datos abiertos de la Ciudad de Buenos Aires. | [Web](https://data.buenosaires.gob.ar/) |
 | **CONICET Digital** | CONICET | Repositorio institucional del CONICET. | [Web](https://ri.conicet.gov.ar/) |
-| **SNRD** | MinCyT | Sistema Nacional de Repositorios Digitales. | [Web](https://repositoriosdigitales.mincyt.gob.ar/) |
+| **SNRD** | SICyT | Sistema Nacional de Repositorios Digitales. | [Web](https://repositoriosdigitales.sicyt.gob.ar/vufind/) |
 | **INDEC** | Nación | Instituto Nacional de Estadística y Censos. | [Web](https://www.indec.gob.ar/) |
 
 ---
@@ -46,4 +46,4 @@ Selección de papers que marcaron un antes y un después en la era del Deep Lear
 ### Motores de Búsqueda Académica
 *   [Google Scholar](https://scholar.google.com/)
 *   [Semantic Scholar](https://www.semanticscholar.org/) - Búsqueda semántica de papers con grafos de citas.
-*   [Arxiv Sanity Lite](https://arxiv-sanity-lite.com/) - Herramienta (creada por A. Karpathy) para filtrar y encontrar papers relevantes en Arxiv.
+*   [Arxiv Sanity Lite](https://github.com/karpathy/arxiv-sanity-lite) - Herramienta (creada por A. Karpathy) para filtrar y encontrar papers relevantes en Arxiv. La instancia pública es irregular; el repositorio permite autoalojarla.

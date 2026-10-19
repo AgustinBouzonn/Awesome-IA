@@ -1,211 +1,211 @@
 # Roadmap - Awesome IA Argentina 🇦🇷
 
-## Mission 🎯
+## Misión 🎯
 
 Centralizar y curar los mejores recursos de Inteligencia Artificial, Ciencia de Datos y Machine Learning para la comunidad hispanohablante, con foco especial en Argentina.
 
 ---
 
-## Phase 1: Foundation ✅ (Completed)
+## Fase 1: Bases ✅ (completada)
 
-### Core Content
-- [x] Education section (carreras, cursos, libros)
-- [x] Research section (datasets, papers, organisms)
-- [x] Tools section (frameworks, libraries, APIs)
-- [x] Community section (events, groups, media)
-- [x] Creative Commons Zero license (CC0)
-- [x] Initial documentation
-- [x] Contributing guidelines
-- [x] Code of Conduct
+### Contenido principal
+- [x] Sección de educación (carreras, cursos, libros)
+- [x] Sección de investigación (datasets, papers, organismos)
+- [x] Sección de herramientas (frameworks, librerías, APIs)
+- [x] Sección de comunidad (eventos, grupos, medios)
+- [x] Licencia Creative Commons Zero (CC0)
+- [x] Documentación inicial
+- [x] Guía de contribución
+- [x] Código de conducta
 
-### Metrics Achieved
-- ⭐ 3+ GitHub stars
-- 📝 4 main sections with content
-- 🤝 Community contributions enabled
-
----
-
-## Phase 2: Expansion 🔜 (2026 Q1-Q2)
-
-### Content Growth
-- [ ] **100+ resources** across all categories
-- [ ] **Video tutorials** section (YouTube, cursos grabados)
-- [ ] **Scholarships** and funding opportunities
-- [ ] **Job board** for AI/ML positions in Argentina
-- [ ] **Success stories** of Argentine AI professionals
-- [ ] **Glossary** of AI terms in Spanish
-
-### Community Features
-- [ ] **Monthly newsletter** with curated resources
-- [ ] **Discord/Slack community** for real-time discussions
-- [ ] **Mentorship program** connecting juniors with seniors
-- [ ] **Virtual meetups** for knowledge sharing
-
-### Technical Improvements
-- [ ] **Search functionality** (Algolia or similar)
-- [ ] **Tags system** for better categorization
-- [ ] **RSS feeds** for each section
-- [ ] **Automatic link checker** for dead links
+### Métricas alcanzadas
+- ⭐ 3+ estrellas en GitHub
+- 📝 4 secciones principales con contenido
+- 🤝 Contribuciones de la comunidad habilitadas
 
 ---
 
-## Phase 3: Engagement 💡 (2026 Q3-Q4)
+## Fase 2: Expansión 🔜 (2026, 1.er y 2.º trimestre)
 
-### Interactive Features
-- [ ] **Resource rating system** (upvotes/downvotes)
-- [ ] **User submissions** with moderation
-- [ ] **Comment system** for discussions
-- [ ] **Resource sharing** (Twitter, LinkedIn, etc.)
-- [ ] **Weekly highlights** in home page
+### Crecimiento del contenido
+- [ ] **100+ recursos** entre todas las categorías
+- [ ] Sección de **tutoriales en video** (YouTube, cursos grabados)
+- [ ] **Becas** y oportunidades de financiamiento
+- [ ] **Bolsa de trabajo** para puestos de IA/ML en Argentina
+- [ ] **Casos de éxito** de profesionales argentinos de IA
+- [ ] **Glosario** de términos de IA en español
 
-### Content Expansion
-- [ ] **Podcasts** about AI in Spanish
-- [ ] **Interviews** with AI professionals
-- [ ] **Case studies** of AI projects in Argentina
-- [ ] **Tutorials** created by community
-- [ ] **Translations** of English resources to Spanish
+### Funcionalidades para la comunidad
+- [ ] **Newsletter mensual** con recursos curados
+- [ ] **Comunidad en Discord o Slack** para conversar en tiempo real
+- [ ] **Programa de mentorías** que conecte juniors con seniors
+- [ ] **Meetups virtuales** para compartir conocimiento
 
-### Events & Activities
-- [ ] **Annual conference** (Awesome AI Day)
-- [ ] **Hackathons** focused on AI
-- [ ] **Workshops** on trending topics
-- [ ] **Study groups** for online courses
-
----
-
-## Phase 4: Platform 🚀 (2027)
-
-### Website Development
-- [ ] **Custom website** (not just GitHub README)
-- [ ] **Database backend** for dynamic content
-- [ ] **User accounts** and profiles
-- [ ] **Progress tracking** for learners
-- [ ] **Certificates** for course completion
-
-### Advanced Features
-- [ ] **AI-powered recommendations** ("You might also like...")
-- [ ] **Learning paths** (Beginner → Intermediate → Advanced)
-- [ ] **Skill assessment** quizzes
-- [ ] **Career roadmap** generator
-- [ ] **Salary insights** for AI roles in Argentina
-
-### Monetization (Optional)
-- [ ] **Premium courses** (affiliate partnerships)
-- [ ] **Sponsored listings** (clearly marked)
-- [ ] **Donations** (GitHub Sponsors, Patreon)
-- [ ] **Corporate partnerships** for job placements
+### Mejoras técnicas
+- [ ] **Búsqueda** (Algolia o similar)
+- [ ] **Sistema de etiquetas** para categorizar mejor
+- [ ] **Feeds RSS** para cada sección
+- [ ] **Verificador automático** de enlaces rotos
 
 ---
 
-## Phase 5: Ecosystem 🌟 (2028+)
+## Fase 3: Participación 💡 (2026, 3.er y 4.º trimestre)
 
-### Expansion
-- [ ] **Other Latin American countries** (Chile, Colombia, Mexico)
-- [ ] **Mobile apps** (iOS, Android)
-- [ ] **Offline access** (PWA functionality)
-- [ ] **API** for third-party integrations
+### Funcionalidades interactivas
+- [ ] **Sistema de valoración** de recursos (votos a favor y en contra)
+- [ ] **Envíos de usuarios** con moderación
+- [ ] **Sistema de comentarios** para debatir
+- [ ] **Compartir recursos** en redes (Twitter, LinkedIn, etc.)
+- [ ] **Destacados semanales** en la portada
 
-### Community Building
-- [ ] **Ambassador program** for universities
-- [ ] **Student chapters** in universities
-- [ ] **Research partnerships** with universities
-- [ ] **Government collaborations** (education programs)
+### Ampliación del contenido
+- [ ] **Podcasts** sobre IA en español
+- [ ] **Entrevistas** con profesionales de IA
+- [ ] **Casos de estudio** de proyectos de IA en Argentina
+- [ ] **Tutoriales** hechos por la comunidad
+- [ ] **Traducciones** al español de recursos en inglés
 
-### Sustainability
-- [ ] **Non-profit organization** formalization
-- [ ] **Grant applications** for funding
-- [ ] **Corporate sponsors** (tech companies)
-- [ ] **Volunteer coordinator** role
-
----
-
-## Priority Matrix
-
-| Feature | Impact | Effort | Priority |
-|---------|--------|--------|----------|
-| Search functionality | 🔥 High | 💡 Medium | 🔥 Critical |
-| Resource rating system | 🔥 High | 💡 Medium | 🔥 Critical |
-| 100+ resources | 🔥 High | 💡 Medium | 🔥 Critical |
-| Discord community | 🔥 High | 💡 Low | ⚡ High |
-| Custom website | ⚡ High | 🔥 High | 💡 Medium |
-| Mobile apps | 💡 Medium | 🔥 High | 💭 Low |
-| AI recommendations | 💡 Medium | 🔥 High | 💭 Low |
+### Eventos y actividades
+- [ ] **Conferencia anual** (Awesome AI Day)
+- [ ] **Hackatones** centradas en IA
+- [ ] **Talleres** sobre temas en tendencia
+- [ ] **Grupos de estudio** para cursos online
 
 ---
 
-## Contribution Ideas 💡
+## Fase 4: Plataforma 🚀 (2027)
 
-Want to help? Here's what we need:
+### Desarrollo del sitio web
+- [ ] **Sitio web propio**, más allá del README de GitHub
+- [ ] **Backend con base de datos** para contenido dinámico
+- [ ] **Cuentas** y perfiles de usuario
+- [ ] **Seguimiento del progreso** para quienes aprenden
+- [ ] **Certificados** al completar cursos
 
-1. **Content Curators** (High Priority)
-   - Find and add new resources
-   - Update existing resources
-   - Verify links and descriptions
+### Funcionalidades avanzadas
+- [ ] **Recomendaciones con IA** ("También te puede interesar...")
+- [ ] **Rutas de aprendizaje** (inicial → intermedio → avanzado)
+- [ ] **Evaluaciones de habilidades** con cuestionarios
+- [ ] **Generador de roadmap** de carrera
+- [ ] **Información salarial** de roles de IA en Argentina
 
-2. **Developers** (Medium Priority)
-   - Build custom website
-   - Implement search functionality
-   - Create automation scripts
-
-3. **Designers** (Medium Priority)
-   - Design logo and branding
-   - Create website mockups
-   - Design social media graphics
-
-4. **Community Managers** (High Priority)
-   - Moderate discussions
-   - Organize events
-   - Manage social media
-
-5. **Translators** (Low Priority)
-   - Translate English resources to Spanish
-   - Localize content for different countries
+### Monetización (opcional)
+- [ ] **Cursos premium** (alianzas de afiliados)
+- [ ] **Publicaciones patrocinadas** (claramente identificadas)
+- [ ] **Donaciones** (GitHub Sponsors, Patreon)
+- [ ] **Alianzas con empresas** para inserción laboral
 
 ---
 
-## Success Metrics 📊
+## Fase 5: Ecosistema 🌟 (2028 en adelante)
 
-### Short-term (6 months)
-- ⭐ 50+ GitHub stars
-- 👥 100+ contributors
-- 📝 200+ resources listed
-- 💬 500+ Discord members
+### Expansión
+- [ ] **Otros países de Latinoamérica** (Chile, Colombia, México)
+- [ ] **Apps móviles** (iOS, Android)
+- [ ] **Acceso sin conexión** (funcionalidad PWA)
+- [ ] **API** para integraciones de terceros
 
-### Mid-term (1 year)
-- ⭐ 500+ GitHub stars
-- 👥 500+ contributors
-- 📝 500+ resources listed
-- 👀 10K+ monthly visitors
-- 💬 2K+ Discord members
+### Construcción de comunidad
+- [ ] **Programa de embajadores** en universidades
+- [ ] **Capítulos estudiantiles** en universidades
+- [ ] **Alianzas de investigación** con universidades
+- [ ] **Colaboraciones con el Estado** (programas educativos)
 
-### Long-term (2 years)
-- ⭐ 2K+ GitHub stars
-- 👥 2K+ contributors
-- 📝 1000+ resources listed
-- 👀 50K+ monthly visitors
-- 💬 10K+ Discord members
+### Sostenibilidad
+- [ ] **Formalización como organización sin fines de lucro**
+- [ ] **Postulaciones a subsidios** para financiamiento
+- [ ] **Patrocinadores corporativos** (empresas de tecnología)
+- [ ] Rol de **coordinación de voluntarios**
 
 ---
 
-## Timeline 📅
+## Matriz de prioridades
 
-| Phase | Target | Status |
-|-------|--------|--------|
-| Phase 1: Foundation | Q4 2025 | ✅ Complete |
-| Phase 2: Expansion | Q1-Q2 2026 | 🔜 In Progress |
-| Phase 3: Engagement | Q3-Q4 2026 | 💡 Planned |
-| Phase 4: Platform | 2027 | 💡 Planned |
-| Phase 5: Ecosystem | 2028+ | 💡 Planned |
+| Funcionalidad | Impacto | Esfuerzo | Prioridad |
+|---------------|---------|----------|-----------|
+| Búsqueda | 🔥 Alto | 💡 Medio | 🔥 Crítica |
+| Sistema de valoración de recursos | 🔥 Alto | 💡 Medio | 🔥 Crítica |
+| 100+ recursos | 🔥 Alto | 💡 Medio | 🔥 Crítica |
+| Comunidad en Discord | 🔥 Alto | 💡 Bajo | ⚡ Alta |
+| Sitio web propio | ⚡ Alto | 🔥 Alto | 💡 Media |
+| Apps móviles | 💡 Medio | 🔥 Alto | 💭 Baja |
+| Recomendaciones con IA | 💡 Medio | 🔥 Alto | 💭 Baja |
+
+---
+
+## Cómo podés ayudar 💡
+
+Estas son las áreas donde más falta hace:
+
+1. **Curaduría de contenido** (prioridad alta)
+   - Encontrar y sumar recursos nuevos
+   - Actualizar los recursos existentes
+   - Verificar enlaces y descripciones
+
+2. **Desarrollo** (prioridad media)
+   - Construir el sitio web propio
+   - Implementar la búsqueda
+   - Crear scripts de automatización
+
+3. **Diseño** (prioridad media)
+   - Diseñar el logo y la identidad visual
+   - Crear mockups del sitio web
+   - Diseñar piezas para redes sociales
+
+4. **Gestión de comunidad** (prioridad alta)
+   - Moderar conversaciones
+   - Organizar eventos
+   - Gestionar las redes sociales
+
+5. **Traducción** (prioridad baja)
+   - Traducir al español recursos en inglés
+   - Adaptar el contenido a distintos países
+
+---
+
+## Métricas de éxito 📊
+
+### Corto plazo (6 meses)
+- ⭐ 50+ estrellas en GitHub
+- 👥 100+ contribuyentes
+- 📝 200+ recursos listados
+- 💬 500+ miembros en Discord
+
+### Mediano plazo (1 año)
+- ⭐ 500+ estrellas en GitHub
+- 👥 500+ contribuyentes
+- 📝 500+ recursos listados
+- 👀 10 mil+ visitantes mensuales
+- 💬 2 mil+ miembros en Discord
+
+### Largo plazo (2 años)
+- ⭐ 2 mil+ estrellas en GitHub
+- 👥 2 mil+ contribuyentes
+- 📝 1000+ recursos listados
+- 👀 50 mil+ visitantes mensuales
+- 💬 10 mil+ miembros en Discord
+
+---
+
+## Cronograma 📅
+
+| Fase | Objetivo | Estado |
+|------|----------|--------|
+| Fase 1: Bases | 4.º trimestre 2025 | ✅ Completada |
+| Fase 2: Expansión | 1.er y 2.º trimestre 2026 | 🔜 En curso |
+| Fase 3: Participación | 3.er y 4.º trimestre 2026 | 💡 Planificada |
+| Fase 4: Plataforma | 2027 | 💡 Planificada |
+| Fase 5: Ecosistema | 2028 en adelante | 💡 Planificada |
 
 ---
 
 <div align="center">
 
-## 🤝 Want to contribute? Check our [Contributing Guide](CONTRIBUTING.md)
+## 🤝 ¿Querés contribuir? Leé la [guía de contribución](CONTRIBUTING.md)
 
-## ⭐ Give us a star if you find this useful!
+## ⭐ Si te resulta útil, dejanos una estrella
 
-## 📧 Contact: abouzon@linksolution.com.ar
+## 📧 Contacto: abouzon@linksolution.com.ar
 
 </div>
 
@@ -213,4 +213,4 @@ Want to help? Here's what we need:
 
 <i>"Construyendo el futuro de la IA en Argentina, juntos"</i> 🇦🇷🤖
 
-*Last updated: February 2026*
+*Última revisión del contenido: febrero de 2026*
